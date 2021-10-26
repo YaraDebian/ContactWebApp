@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yara.debian\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yara.debian\\.nuget\\packages"
+    ]
+  }
+}

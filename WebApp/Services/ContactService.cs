@@ -24,9 +24,9 @@ namespace WebApp.Services
             _logsService = logsService;
         }
 
-        public IEnumerable<Contact> GetAll()
+        public List<Contact> GetAll()
         {
-            return dbContext.Contact.Include(c => c.Logs);
+            return dbContext.Contact.Include(c => c.Logs).ToList();
         }
         public Contact Get(int id)
         {
