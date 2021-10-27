@@ -9193,11 +9193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp.Test\\WebApp.Test.csproj",
+      "projectUniqueName": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp.Test\\WebApp.Test.csproj",
       "projectName": "WebApp.Test",
-      "projectPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp.Test\\WebApp.Test.csproj",
+      "projectPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp.Test\\WebApp.Test.csproj",
       "packagesPath": "C:\\Users\\yara.debian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp.Test\\obj\\",
+      "outputPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yara.debian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9214,8 +9214,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp\\WebApp.csproj": {
-              "projectPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp\\WebApp.csproj"
+            "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp\\WebApp.csproj": {
+              "projectPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp\\WebApp.csproj"
             }
           }
         }

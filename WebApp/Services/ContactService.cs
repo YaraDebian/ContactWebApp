@@ -4,10 +4,6 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
-using System.Collections;
-using System.Management;
-using ObjectsComparer;
 using WebApp.Models;
 using WebApp.Helpers;
 
