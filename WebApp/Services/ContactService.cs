@@ -52,9 +52,11 @@ namespace WebApp.Services
 
         public Contact Delete(Contact contact)
         {
+            var logs = _logsService.GetLogs(contact.Id);
             try
             {
                 dbContext.Entry(contact).State = EntityState.Deleted;
+                dbContext.Log.RemoveRange(logs);
             }
             catch(ArgumentNullException e)
             {

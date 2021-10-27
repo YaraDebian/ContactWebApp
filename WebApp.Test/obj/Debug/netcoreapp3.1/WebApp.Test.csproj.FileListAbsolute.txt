@@ -157,3 +157,5 @@ C:\Users\yara.debian\OneDrive - Hedgeguard\Desktop\Factorial\WebApp\WebApp.Test\
 C:\Users\yara.debian\OneDrive - Hedgeguard\Desktop\Factorial\WebApp\WebApp.Test\obj\Debug\netcoreapp3.1\WebApp.Test.dll
 C:\Users\yara.debian\OneDrive - Hedgeguard\Desktop\Factorial\WebApp\WebApp.Test\obj\Debug\netcoreapp3.1\WebApp.Test.pdb
 C:\Users\yara.debian\OneDrive - Hedgeguard\Desktop\Factorial\WebApp\WebApp.Test\obj\Debug\netcoreapp3.1\WebApp.Test.genruntimeconfig.cache
+C:\Users\yara.debian\OneDrive - Hedgeguard\Desktop\Factorial\WebApp\WebApp.Test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\yara.debian\OneDrive - Hedgeguard\Desktop\Factorial\WebApp\WebApp.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
