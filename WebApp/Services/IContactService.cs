@@ -6,7 +6,7 @@ namespace WebApp.Services
 {
     public interface IContactService 
     {
-        IEnumerable<Contact> GetAll();
+        List<Contact> GetAll();
         PagedList<Contact> GetAppPaginated(ContactParams pp);
         Contact Get(int id);
         Contact Create(Contact contact);

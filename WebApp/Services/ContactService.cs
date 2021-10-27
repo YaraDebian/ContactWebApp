@@ -24,9 +24,9 @@ namespace WebApp.Services
             _logsService = logsService;
         }
 
-        public IEnumerable<Contact> GetAll()
+        public List<Contact> GetAll()
         {
-            return dbContext.Contact.Include(c => c.Logs);
+            return dbContext.Contact.Include(c => c.Logs).ToList();
         }
         public Contact Get(int id)
         {
@@ -52,9 +52,11 @@ namespace WebApp.Services
 
         public Contact Delete(Contact contact)
         {
+            var logs = _logsService.GetLogs(contact.Id);
             try
             {
                 dbContext.Entry(contact).State = EntityState.Deleted;
+                dbContext.Log.RemoveRange(logs);
             }
             catch(ArgumentNullException e)
             {

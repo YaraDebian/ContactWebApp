@@ -26,7 +26,7 @@ namespace WebApp.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Contact> GetAll()
+        public List<Contact> GetAll()
         {
             return _contactService.GetAll();
         }
@@ -36,7 +36,7 @@ namespace WebApp.Controllers
         //[Route("/getPaginated")]
 
         //get api paginated and filtered
-        public IEnumerable<Contact> Getall([FromQuery] ContactParams _params)
+        public ActionResult<IEnumerable<Contact>> Getall([FromQuery] ContactParams _params)
         {
 
             var contacts = _contactService.GetAppPaginated(_params);
