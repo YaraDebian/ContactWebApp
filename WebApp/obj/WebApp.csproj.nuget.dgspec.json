@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\yara.debian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\Factorial\\WebApp\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\yara.debian\\OneDrive - Hedgeguard\\Desktop\\ContactWebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yara.debian\\AppData\\Roaming\\NuGet\\NuGet.Config",
